@@ -1,0 +1,10 @@
+D:\Coding\FileRenamer2\FileRenamer2\bin\Debug\FileRenamer2.exe.config
+D:\Coding\FileRenamer2\FileRenamer2\bin\Debug\FileRenamer2.exe
+D:\Coding\FileRenamer2\FileRenamer2\bin\Debug\FileRenamer2.pdb
+D:\Coding\FileRenamer2\FileRenamer2\bin\Debug\ShellProgressBar.dll
+D:\Coding\FileRenamer2\FileRenamer2\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Coding\FileRenamer2\FileRenamer2\obj\Debug\FileRenamer2.csprojAssemblyReference.cache
+D:\Coding\FileRenamer2\FileRenamer2\obj\Debug\FileRenamer2.csproj.CoreCompileInputs.cache
+D:\Coding\FileRenamer2\FileRenamer2\obj\Debug\FileRenamer2.csproj.CopyComplete
+D:\Coding\FileRenamer2\FileRenamer2\obj\Debug\FileRenamer2.exe
+D:\Coding\FileRenamer2\FileRenamer2\obj\Debug\FileRenamer2.pdb
